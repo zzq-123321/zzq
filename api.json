@@ -1,0 +1,145 @@
+{
+  "wallpaper": "https://sgmao.serv00.net/image/",
+  "sites": [
+    {
+      "key": "4kvms",
+      "name": "4K影视",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/4kvms.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://4kvms.com"
+    },
+    {
+      "key": "77电影",
+      "name": "77电影",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/77movie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.77dpw.vip"
+    },
+    {
+      "key": "爱壹帆影视",
+      "name": "爱壹帆影视",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/aiyifan.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.iyf.lv"
+    },
+    {
+      "key": "枫叶影院",
+      "name": "枫叶影院",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/maple.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://maihaolian.com"
+    },
+    {
+      "key": "荐片影视",
+      "name": "荐片影视",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/jianpian.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://m.jpyy.site"
+    },
+    {
+      "key": "零度",
+      "name": "零度影视",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/lingdu.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": ""
+    },
+    {
+      "key": "皮克网",
+      "name": "皮克网",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/qinghe.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.pys1.com"
+    },
+    {
+      "key": "青麦视频",
+      "name": "青麦视频",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/qingmai.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.qingmaisp.com"
+    },
+    {
+      "key": "枫叶影院CNFLIX",
+      "name": "枫叶影院 CNFLIX",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/cnflix.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.cnflix.tv"
+    },
+    {
+      "key": "IFN4K",
+      "name": "IFN影视",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/IFN4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://ifn.watch"
+    },
+    {
+      "key": "蓝光网",
+      "name": "蓝光网",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/languangwang.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.languangwang.com"
+    },
+    {
+      "key": "ok电影天堂",
+      "name": "ok电影天堂",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/okmovie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.okfenduo.com"
+    },
+    {
+      "key": "Pomo影院",
+      "name": "Pomo影院",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/pomo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://pomo.mom"
+    },
+    {
+      "key": "Seniu影视",
+      "name": "Seniu影视",
+      "type": 3,
+      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/py/seniu1769.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://8.seniu1769.cc:8888"
+    }
+  ]
+}
