@@ -132,16 +132,6 @@
       "ext": "https://pomo.mom"
     },
     {
-      "key": "Seniu影视",
-      "name": "Seniu影视",
-      "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/seniu1769.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://8.seniu1769.cc:8888"
-    },
-    {
       "key": "OrangeJuice",
       "name": "橘汁视频",
       "type": 3,
