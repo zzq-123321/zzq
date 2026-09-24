@@ -23,16 +23,6 @@
       "ext": "https://www.77dpw.vip"
     },
     {
-      "key": "爱壹帆影视",
-      "name": "爱壹帆影视",
-      "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/aiyifan.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.iyf.lv"
-    },
-    {
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
@@ -51,16 +41,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": ""
-    },
-    {
-      "key": "皮克网",
-      "name": "皮克网",
-      "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/qinghe.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.pys1.com"
     },
     {
       "key": "青麦视频",
@@ -193,16 +173,6 @@
       "api": "csp_AppRJ",
       "timeout": 12,
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "AiKan_Spider",
-      "name": "🚀秒播┃爱看剧场",
-      "type": 3,
-      "api": "csp_AiKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "Yimi",
