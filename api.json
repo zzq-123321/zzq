@@ -1,4 +1,5 @@
 {
+  "spider": "./fty.jar;md5;dab654f794a271c3d7a33d18acfbfa95",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "sites": [
     {
@@ -40,16 +41,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://maihaolian.com"
-    },
-    {
-      "key": "荐片影视",
-      "name": "荐片影视",
-      "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/jianpian.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://m.jpyy.site"
     },
     {
       "key": "零度",
@@ -140,6 +131,51 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://juziapp.hzhcbkj.cn"
+    },
+    {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "荐片",
+      "name": "🥝荐片┃多线",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixVGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     }
   ]
 }
