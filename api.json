@@ -245,6 +245,13 @@
         "ratio": 1.333
       },
       "ext": "https://api.ztcgi.com"
+    },
+    {
+  "key": "config",
+  "name": "⚙️配置┃核心设置 接口免费公益 闲鱼购买都是傻子",
+  "type": 3,
+  "api": "csp_Config",
+  "searchable": 0
     }
   ]
 }
