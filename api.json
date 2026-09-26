@@ -247,6 +247,17 @@
       "ext": "https://api.ztcgi.com"
     },
     {
+  "key": "yangshi",
+  "name": "中央电视台",
+  "type": 3,
+  "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/yangshi.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": ""
+},
+{
   "key": "config",
   "name": "⚙️配置┃核心设置 接口免费公益 闲鱼购买都是傻子",
   "type": 3,
