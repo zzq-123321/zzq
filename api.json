@@ -1,8 +1,6 @@
 {
-  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
- {
-    "spider": "./c48ed63d2f52adc74108b9b891accf90.png",
   "wallpaper": "https://xn--jory77o.v.nxog.top/m/t/",
+  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
   "sites": [
     {
       "key": "4kvms",
@@ -123,8 +121,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "timeout": 60,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
       "ext": {
         "site": [
           "https://www.2xiaopan.top",
@@ -154,30 +150,32 @@
             "name": "4K综艺"
           }
         ]
-      }
+      },
+      "timeout": 60,
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "csp_Wogg",
       "name": "🧸玩偶┃高峰不卡*网盘4K",
       "type": 3,
       "api": "csp_Gege",
+      "timeout": 15,
+      "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "timeout": 15,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
-      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9",
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "天天",
       "name": "🚀秒播┃高清影视",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
       "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppRJ",
       "timeout": 12,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
-      "ext": "http://v.rbotv.cn"
+      "ext": "http://v.rbotv.cn",
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "Yimi",
@@ -187,8 +185,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
-      "ext": ""
+      "ext": "",
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "花卷",
@@ -199,12 +197,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "timeout": 60,
       "ext": {
         "site": [
           "https://www.hjzhencai.top"
         ]
-      }
+      },
+      "timeout": 60
     },
     {
       "key": "bubu_spider",
@@ -214,7 +212,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
       "ext": {
         "host": "https://323433ssdfd.top",
         "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
@@ -222,50 +219,51 @@
         "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
-      }
+      },
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "csp_QM",
       "name": "🌟七猫┃精选短剧",
       "type": 3,
-      "api": "csp_DuanJuAiQiMiao",
       "searchable": 1,
       "timeout": 12,
       "genre": "shortdrama",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
-      "ext": ""
+      "api": "csp_DuanJuAiQiMiao",
+      "ext": "",
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "csp_XY",
       "name": "🌟星丫┃精选短剧",
       "type": 3,
-      "api": "csp_AppXY",
       "searchable": 1,
       "timeout": 12,
       "genre": "shortdrama",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
-      "ext": ""
+      "api": "csp_AppXY",
+      "ext": "",
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "csp_Jpys",
       "name": "🥇金牌┃高清影视",
       "type": 3,
-      "api": "csp_Jpys",
+      "timeout": 12,
       "searchable": 1,
       "quickSearch": 0,
-      "timeout": 12,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png",
-      "ext": "https://y2s52n7.com"
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com",
+      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "荐片2",
       "name": "🧲荐片┃高清影视",
-      "type": 3,
-      "api": "csp_JianPian",
-      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
+      "searchable": 1,
       "timeout": 15,
+      "type": 3,
+      "api": "csp_JianPian",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -291,5 +289,6 @@
       "searchable": 0,
       "jar": "./jars/config.jar"
     }
-  ]
+  ],
+  "spider": "./c48ed63d2f52adc74108b9b891accf90.png"
 }
