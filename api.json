@@ -1,5 +1,5 @@
 {
-  "spider": "./c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330",
+  "spider": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "sites": [
     {
@@ -170,20 +170,20 @@
       "type": 3,
       "api": "csp_Gege",
       "timeout": 15,
-      "changeable": 0,
+      "changeable": "0",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
-      },
+      "ext": "ewogICJzaXRlIjogWwogICAgImh0dHBzOi8vd3d3LndvZ2cubGluay8iLAogICAgImh0dHBzOi8vd29nZzMuY2MvIiwKICAgICJodHRwczovL3d3dy53b2dnLm5ldC8iLAogICAgImh0dHBzOi8vd3d3LndvZ2duci5jbi8iLAogICAgImh0dHBzOi8vd3d3LndvZ2dycy5jbi8iCiAgXQp9"
+    },
     {
-      "key": "天天",
-      "name": "🚀秒播┃高清影视",
+      "key": "AiKan_Spider",
+      "name": "🚀秒播┃爱看剧场",
       "type": 3,
-      "quickSearch": 1,
+      "api": "csp_AiKan",
       "searchable": 1,
-      "api": "csp_AppRJ",
-      "timeout": 12,
-      "ext": "http://v.rbotv.cn"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "Yimi",
@@ -200,7 +200,6 @@
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanWebShareHJ",
-      "jar": "./spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
