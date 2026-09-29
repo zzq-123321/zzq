@@ -176,15 +176,15 @@
       "ext": "ewogICJzaXRlIjogWwogICAgImh0dHBzOi8vd3d3LndvZ2cubGluay8iLAogICAgImh0dHBzOi8vd29nZzMuY2MvIiwKICAgICJodHRwczovL3d3dy53b2dnLm5ldC8iLAogICAgImh0dHBzOi8vd3d3LndvZ2duci5jbi8iLAogICAgImh0dHBzOi8vd3d3LndvZ2dycy5jbi8iCiAgXQp9"
     },
     {
-      "key": "AiKan_Spider",
-      "name": "🚀秒播┃爱看剧场",
+      "key": "天天",
+      "name": "🚀秒播┃高清影视",
       "type": 3,
-      "api": "csp_AiKan",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:4680"
-    },
+      "searchable": 1,
+      "api": "csp_AppRJ",
+      "timeout": 12,
+      "ext": "http://v.rbotv.cn"
+      },
     {
       "key": "Yimi",
       "name": "👀咕噜┃热门4K",
@@ -200,6 +200,7 @@
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanWebShareHJ",
+      "jar": "./spider.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
