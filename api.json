@@ -1,4 +1,5 @@
-{"spider": "./c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330",
+{
+  "spider": "./c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "sites": [
     {
@@ -169,11 +170,11 @@
       "type": 3,
       "api": "csp_Gege",
       "timeout": 15,
-      "changeable": "0",
+      "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
-    },
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
+      },
     {
       "key": "AiKan_Spider",
       "name": "🚀秒播┃爱看剧场",
@@ -183,6 +184,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "天天",
+      "name": "🚀秒播┃高清影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppRJ",
+      "timeout": 12,
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "Yimi",
@@ -219,7 +230,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":""
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "aid": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f"
+      }
+    },
     {
       "key": "csp_QM",
       "name": "🌟七猫┃精选短剧",
@@ -254,7 +273,7 @@
       "key": "荐片2",
       "name": "🧲荐片┃高清影视",
       "quickSearch": 0,
-      "changeable": "0",
+      "changeable": 0,
       "searchable": 1,
       "timeout": 15,
       "type": 3,
