@@ -1,12 +1,11 @@
 {
-  "wallpaper": "https://xn--jory77o.v.nxog.top/m/t/",
-  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
+  "wallpaper": "https://sgmao.serv00.net/image/",
   "sites": [
     {
       "key": "4kvms",
       "name": "4K影视",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/4kvms.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/4kvms.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -16,7 +15,7 @@
       "key": "77电影",
       "name": "77电影",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/77movie.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/77movie.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -26,7 +25,7 @@
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/maple.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/maple.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -36,7 +35,7 @@
       "key": "零度",
       "name": "零度影视",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/lingdu.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/lingdu.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -46,7 +45,7 @@
       "key": "青麦视频",
       "name": "青麦视频",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/qingmai.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/qingmai.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -56,7 +55,7 @@
       "key": "枫叶影院CNFLIX",
       "name": "枫叶影院 CNFLIX",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/cnflix.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/cnflix.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -66,7 +65,7 @@
       "key": "IFN4K",
       "name": "IFN影视",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/IFN4K.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/IFN4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -76,7 +75,7 @@
       "key": "蓝光网",
       "name": "蓝光网",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/languangwang.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/languangwang.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -86,7 +85,7 @@
       "key": "ok电影天堂",
       "name": "ok电影天堂",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/okmovie.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/okdy.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -96,7 +95,7 @@
       "key": "Pomo影院",
       "name": "Pomo影院",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/pomo.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/pomo.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -106,11 +105,22 @@
       "key": "OrangeJuice",
       "name": "橘汁视频",
       "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/OrangeJuice.py",
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/OrangeJuice.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://juziapp.hzhcbkj.cn"
+    },
+    {
+      "key": "yangshi",
+      "name": "中央电视台",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/ZZQ-1234/zzq123/raw/master/jk/yangshi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": ""
     },
     {
       "key": "指南",
@@ -151,8 +161,7 @@
           }
         ]
       },
-      "timeout": 60,
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "timeout": 60
     },
     {
       "key": "csp_Wogg",
@@ -160,22 +169,20 @@
       "type": 3,
       "api": "csp_Gege",
       "timeout": 15,
-      "changeable": 0,
+      "changeable": "0",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9",
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "ext": ""
     },
     {
-      "key": "天天",
-      "name": "🚀秒播┃高清影视",
+      "key": "AiKan_Spider",
+      "name": "🚀秒播┃爱看剧场",
       "type": 3,
-      "quickSearch": 1,
+      "api": "csp_AiKan",
       "searchable": 1,
-      "api": "csp_AppRJ",
-      "timeout": 12,
-      "ext": "http://v.rbotv.cn",
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "Yimi",
@@ -185,14 +192,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "",
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "ext": ""
     },
     {
       "key": "花卷",
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanWebShareHJ",
+      "jar": "./spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -212,15 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "com.web.player",
-        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "ddtvf65f3a83d6d9ad6f"
-      },
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "ext": ""
     },
     {
       "key": "csp_QM",
@@ -230,8 +229,7 @@
       "timeout": 12,
       "genre": "shortdrama",
       "api": "csp_DuanJuAiQiMiao",
-      "ext": "",
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "ext": ""
     },
     {
       "key": "csp_XY",
@@ -241,8 +239,7 @@
       "timeout": 12,
       "genre": "shortdrama",
       "api": "csp_AppXY",
-      "ext": "",
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "ext": ""
     },
     {
       "key": "csp_Jpys",
@@ -252,18 +249,17 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com",
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+      "ext": "https://y2s52n7.com"
     },
     {
       "key": "荐片2",
       "name": "🧲荐片┃高清影视",
       "quickSearch": 0,
-      "changeable": 0,
+      "changeable": "0",
       "searchable": 1,
       "timeout": 15,
       "type": 3,
-      "api": "csp_JianPian",
+      "api": "csp_Jianpian",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -271,24 +267,11 @@
       "ext": "https://api.ztcgi.com"
     },
     {
-      "key": "yangshi",
-      "name": "中央电视台",
-      "type": 3,
-      "api": "https://codeberg.org/zzq123/zzq/raw/branch/main/jk/yangshi.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": ""
-    },
-    {
       "key": "config",
       "name": "⚙️配置┃核心设置 接口免费公益 闲鱼购买都是傻子",
       "type": 3,
       "api": "csp_Config",
-      "searchable": 0,
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/jars/config.jar"
+      "searchable": 0
     }
-  ],
-  "spider": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+  ]
 }
