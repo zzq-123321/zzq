@@ -152,7 +152,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "csp_Wogg",
@@ -164,7 +164,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "天天",
@@ -175,7 +175,7 @@
       "api": "csp_AppRJ",
       "timeout": 12,
       "ext": "http://v.rbotv.cn",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "Yimi",
@@ -186,7 +186,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "花卷",
@@ -220,7 +220,7 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "csp_QM",
@@ -231,7 +231,7 @@
       "genre": "shortdrama",
       "api": "csp_DuanJuAiQiMiao",
       "ext": "",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "csp_XY",
@@ -242,7 +242,7 @@
       "genre": "shortdrama",
       "api": "csp_AppXY",
       "ext": "",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "csp_Jpys",
@@ -253,7 +253,7 @@
       "quickSearch": 0,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
-      "jar": "./c48ed63d2f52adc74108b9b891accf90.png"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
     },
     {
       "key": "荐片2",
@@ -287,8 +287,8 @@
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
-      "jar": "./jars/config.jar"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/jars/config.jar"
     }
   ],
-  "spider": "./c48ed63d2f52adc74108b9b891accf90.png"
+  "spider": "https://codeberg.org/zzq123/zzq/raw/branch/main/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
 }
