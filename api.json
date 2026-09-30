@@ -148,6 +148,7 @@
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanWebShareHJ",
+     "jar": "spider.jar" 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
