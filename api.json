@@ -234,6 +234,7 @@
       "name": "🌟七猫┃精选短剧",
       "type": 3,
       "searchable": 1,
+      "jar": "spider.png",
       "timeout": 12,
       "genre": "shortdrama",
       "api": "csp_DuanJuAiQiMiao",
