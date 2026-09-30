@@ -3,26 +3,6 @@
   "wallpaper": "https://sgmao.serv00.net/image/",
   "sites": [
     {
-      "key": "4kvms",
-      "name": "4K影视",
-      "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/4kvms.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://4kvms.com"
-    },
-    {
-      "key": "77电影",
-      "name": "77电影",
-      "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/77movie.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.77dpw.vip"
-    },
-    {
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
@@ -81,26 +61,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.languangwang.com"
-    },
-    {
-      "key": "ok电影天堂",
-      "name": "ok电影天堂",
-      "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/okmovie.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.okfenduo.com"
-    },
-    {
-      "key": "Pomo影院",
-      "name": "Pomo影院",
-      "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/pomo.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://pomo.mom"
     },
     {
       "key": "OrangeJuice",
@@ -164,17 +124,6 @@
       "timeout": 60
     },
     {
-      "key": "csp_Wogg",
-      "name": "🧸玩偶┃高峰不卡*网盘4K",
-      "type": 3,
-      "api": "csp_Gege",
-      "timeout": 15,
-      "changeable": "0",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ewogICJzaXRlIjogWwogICAgImh0dHBzOi8vd3d3LndvZ2cubGluay8iLAogICAgImh0dHBzOi8vd29nZzMuY2MvIiwKICAgICJodHRwczovL3d3dy53b2dnbmV0LyIsCiAgICAiaHR0cHM6Ly93d3cud29nZ25yLmNuLyIsCiAgICAiaHR0cHM6Ly93d3cud29nZ3JzLmNuLyIKICBdCn0="
-    },
-    {
       "key": "天天",
       "name": "🚀秒播┃高清影视",
       "type": 3,
@@ -199,7 +148,6 @@
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanWebShareHJ",
-      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -272,13 +220,6 @@
         "ratio": 1.333
       },
       "ext": "https://api.ztcgi.com"
-    },
-    {
-      "key": "config",
-      "name": "⚙️配置┃核心设置 接口免费公益 闲鱼购买都是傻子",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0
     }
   ]
 }
