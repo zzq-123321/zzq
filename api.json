@@ -195,23 +195,6 @@
       "ext": ""
     },
     {
-      "key": "花卷",
-      "name": "花卷 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShareHJ",
-      "jar": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.hjzhencai.top"
-        ]
-      },
-      "timeout": 60
-    },
-    {
       "key": "bubu_spider",
       "name": "🌺大鹅┃高清影视",
       "type": 3,
@@ -279,6 +262,23 @@
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
+    },
+    {
+      "key": "花卷",
+      "name": "花卷 • 4K",
+      "type": 3,
+      "api": "csp_PanWebShareHJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.hjzhencai.top"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png"
     }
   ]
 }
