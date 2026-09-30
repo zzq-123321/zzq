@@ -210,7 +210,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/spider.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/spider.jar"
     },
     {
       "key": "bubu_spider",
