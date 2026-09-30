@@ -1,12 +1,32 @@
 {
-  "spider": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png;md5;aeac2c81aed0495d8dfefbbf9b371fae",
+  "spider": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png;md5;aeac2c81aed0495d8dfefbbf9b371fae",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "sites": [
+    {
+      "key": "4kvms",
+      "name": "4K影视",
+      "type": 3,
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/4kvms.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://4kvms.com"
+    },
+    {
+      "key": "77电影",
+      "name": "77电影",
+      "type": 3,
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/77movie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.77dpw.vip"
+    },
     {
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/maple.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/maple.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -16,7 +36,7 @@
       "key": "零度",
       "name": "零度影视",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/lingdu.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/lingdu.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -26,7 +46,7 @@
       "key": "青麦视频",
       "name": "青麦视频",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/qingmai.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/qingmai.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -36,7 +56,7 @@
       "key": "枫叶影院CNFLIX",
       "name": "枫叶影院 CNFLIX",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/cnflix.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/cnflix.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -46,7 +66,7 @@
       "key": "IFN4K",
       "name": "IFN影视",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/IFN4K.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/IFN4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -56,17 +76,37 @@
       "key": "蓝光网",
       "name": "蓝光网",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/languangwang.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/languangwang.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.languangwang.com"
     },
     {
+      "key": "ok电影天堂",
+      "name": "ok电影天堂",
+      "type": 3,
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/okmovie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.okfenduo.com"
+    },
+    {
+      "key": "Pomo影院",
+      "name": "Pomo影院",
+      "type": 3,
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/pomo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://pomo.mom"
+    },
+    {
       "key": "OrangeJuice",
       "name": "橘汁视频",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/OrangeJuice.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/OrangeJuice.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -76,7 +116,7 @@
       "key": "yangshi",
       "name": "中央电视台",
       "type": 3,
-      "api": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/jk/yangshi.py",
+      "api": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/jk/yangshi.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -124,6 +164,18 @@
       "timeout": 60
     },
     {
+      "key": "csp_Wogg",
+      "name": "🧸玩偶┃高峰不卡*网盘4K",
+      "type": 3,
+      "api": "csp_Gege",
+      "timeout": 15,
+      "changeable": "0",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9",
+      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png"
+    },
+    {
       "key": "天天",
       "name": "🚀秒播┃高清影视",
       "type": 3,
@@ -148,7 +200,6 @@
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanWebShareHJ",
-     "jar": "spider.jar" 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -158,7 +209,8 @@
           "https://www.hjzhencai.top"
         ]
       },
-      "timeout": 60
+      "timeout": 60,
+      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/spider.jar"
     },
     {
       "key": "bubu_spider",
@@ -221,6 +273,13 @@
         "ratio": 1.333
       },
       "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "config",
+      "name": "⚙️配置┃核心设置 接口免费公益 闲鱼购买都是傻子",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0
     }
   ]
 }
