@@ -172,7 +172,8 @@
       "changeable": "0",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9",
+      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "天天",
@@ -193,6 +194,23 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
+    },
+    {
+      "key": "花卷",
+      "name": "花卷 • 4K",
+      "type": 3,
+      "api": "csp_PanWebShareHJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.hjzhencai.top"
+        ]
+      },
+      "timeout": 60,
+      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
       "key": "bubu_spider",
@@ -262,23 +280,6 @@
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
-    },
-    {
-      "key": "花卷",
-      "name": "花卷 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShareHJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.hjzhencai.top"
-        ]
-      },
-      "timeout": 60,
-      "jar": "https://testingcf.jsdelivr.net/gh/zzq-123321/zzq@main/c48ed63d2f52adc74108b9b891accf90.png"
     }
   ]
 }
