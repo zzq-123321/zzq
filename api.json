@@ -210,7 +210,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://gcore.jsdelivr.net/gh/zzq-123321/zzq@main/spider.jar"
+      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/spider.jar"
     },
     {
       "key": "bubu_spider",
