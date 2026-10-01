@@ -210,7 +210,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://codeberg.org/zzq123/zzq/raw/branch/main/spider.jar"
+      "jar": "https://zzq123xiong123.oss-cn-shanghai.aliyuncs.com/spider.jar"
     },
     {
       "key": "bubu_spider",
